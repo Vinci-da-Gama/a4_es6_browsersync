@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "umd",
+        "experimentalDecorators": true
+    },
+    "exclude": [
+        "node_modules", 
+        "dist", 
+        "./bower_components",
+        "tmp", 
+        "temp", 
+        "jspm_packages"
+    ]
+}
